@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vikekh.Cv2.Client", "src\Vikekh.Cv2.Client\Vikekh.Cv2.Client.csproj", "{7B53939D-BE75-4B77-BDB5-0CF9AD74B6FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2A1F8B3E-526E-4CD5-939D-AD3B8BB3602E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B53939D-BE75-4B77-BDB5-0CF9AD74B6FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B53939D-BE75-4B77-BDB5-0CF9AD74B6FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B53939D-BE75-4B77-BDB5-0CF9AD74B6FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B53939D-BE75-4B77-BDB5-0CF9AD74B6FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B53939D-BE75-4B77-BDB5-0CF9AD74B6FB} = {2A1F8B3E-526E-4CD5-939D-AD3B8BB3602E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D83BEAE-10F2-4A03-B253-04F490EAE64D}
+	EndGlobalSection
+EndGlobal
