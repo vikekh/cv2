@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vikekh.Cv2.Client", "src\Vi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{2A1F8B3E-526E-4CD5-939D-AD3B8BB3602E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OnePageResume", "OnePageResume", "{EA9CDD9A-FCC6-41EA-B679-0C30C8D1DE50}"
+	ProjectSection(SolutionItems) = preProject
+		OnePageResume\index.html = OnePageResume\index.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
